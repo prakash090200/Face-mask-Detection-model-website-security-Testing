@@ -1,0 +1,28 @@
+<!DOCTYPEhtml>
+<title>18BIT0453</title>
+<htmlxmlns="http://www.w3.org/1999/xhtml">
+<head>
+<metacharset="utf-8"/>
+<title></title>
+</head>
+<body>
+<formaction="/submit-student-data"method="post">
+First Name: <inputname="firstName"type="text"/><br/>
+Last Name: <inputname="lastName"type="text"/><br/>
+<inputtype="submit"/>
+</form>
+</body>
+var express = require('express');
+var app = express();
+var bodyParser = require("body-parser");
+app.use(bodyParser.urlencoded({ extended: false }));
+app.get('/', function (req, res) {
+res.sendFile('index.html');
+});
+app.post('/submit-student-data', function (req, res) {
+var name = req.body.firstName + ' ' + req.body.lastName;
+res.send(name + ' Submitted Successfully!');
+});
+var server = app.listen(5000, function () {
+console.log('Node server is running..');
+});</html>
