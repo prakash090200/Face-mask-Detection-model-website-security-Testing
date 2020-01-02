@@ -6,7 +6,10 @@ It provide complete information of the students their hostel,proctor, marks, att
 * CSS
 * MYSQL in backend
 * javascript (little bit)
-# Portal Design
-to run the application i made use of 'Wampserver64' , sublimeText editor for writing php, html,css code.
-Here i made use of 7-8 forms which include : 
+# How to run the application 
+To run the application i made use of 
+* Wampserver64 
+* sublimeText editor for writing codes.
+# screenshots
+
 
