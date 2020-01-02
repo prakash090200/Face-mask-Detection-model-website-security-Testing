@@ -12,6 +12,6 @@ To run the application i made use of
 * sublimeText editor for writing codes.
 ---
 # screenshots
-
+<img width="949" alt="one" src="https://user-images.githubusercontent.com/59432256/71685285-d68f3600-2dbd-11ea-85fc-6b9d630c2dbb.PNG">
 
 
