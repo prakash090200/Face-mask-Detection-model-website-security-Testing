@@ -14,7 +14,7 @@ To run the application i made use of
 # screenshots
 ### Homepage
 <img width="949" alt="one" src="https://user-images.githubusercontent.com/59432256/71685285-d68f3600-2dbd-11ea-85fc-6b9d630c2dbb.PNG">
-### Teachers portal for student less than 75 %
+## Teachers portal for student less than 75 %
 <img width="958" alt="C2" src="https://user-images.githubusercontent.com/59432256/71739439-7365d800-2e7f-11ea-9d99-cc628ea82541.PNG">
 ### Hover effect of robot
 <a href="https://imgflip.com/gif/3l3m92"><img src="https://i.imgflip.com/3l3m92.gif" title="made at imgflip.com"/></a>
