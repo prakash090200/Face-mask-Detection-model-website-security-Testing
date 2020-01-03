@@ -12,10 +12,15 @@ To run the application i made use of
 * sublimeText editor for writing codes.
 ---
 # screenshots
+### Homepage
 <img width="949" alt="one" src="https://user-images.githubusercontent.com/59432256/71685285-d68f3600-2dbd-11ea-85fc-6b9d630c2dbb.PNG">
+### teachers portal for student less than 75 %
 <img width="958" alt="C2" src="https://user-images.githubusercontent.com/59432256/71739439-7365d800-2e7f-11ea-9d99-cc628ea82541.PNG">
+### hover effect of robot
 <a href="https://imgflip.com/gif/3l3m92"><img src="https://i.imgflip.com/3l3m92.gif" title="made at imgflip.com"/></a>
+### student checking marks
 <img width="940" alt="C5" src="https://user-images.githubusercontent.com/59432256/71741126-0bfe5700-2e84-11ea-8009-583979b686ea.PNG">
+### 
 <a href="https://imgflip.com/gif/3l3pgs"><img src="https://i.imgflip.com/3l3pgs.gif" title="made at imgflip.com"/></a>
 <img width="955" alt="C6" src="https://user-images.githubusercontent.com/59432256/71742024-6dbfc080-2e86-11ea-96cd-9bd862e7ba97.PNG">
 <img width="838" alt="C7" src="https://user-images.githubusercontent.com/59432256/71742076-921b9d00-2e86-11ea-8cfe-8a964ec88866.PNG">
