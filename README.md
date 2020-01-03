@@ -17,3 +17,4 @@ To run the application i made use of
 <a href="https://imgflip.com/gif/3l3m92"><img src="https://i.imgflip.com/3l3m92.gif" title="made at imgflip.com"/></a>
 <img width="940" alt="C5" src="https://user-images.githubusercontent.com/59432256/71741126-0bfe5700-2e84-11ea-8009-583979b686ea.PNG">
 <a href="https://imgflip.com/gif/3l3pgs"><img src="https://i.imgflip.com/3l3pgs.gif" title="made at imgflip.com"/></a>
+<img width="955" alt="C6" src="https://user-images.githubusercontent.com/59432256/71742024-6dbfc080-2e86-11ea-96cd-9bd862e7ba97.PNG">
