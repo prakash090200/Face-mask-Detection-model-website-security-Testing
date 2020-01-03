@@ -42,6 +42,7 @@ Student can give their FFCS by choosing subjects for the upcoming sem as he choo
 ### teachers portal(student with more than 75% attendance)
 <img width="955" alt="C6" src="https://user-images.githubusercontent.com/59432256/71742024-6dbfc080-2e86-11ea-96cd-9bd862e7ba97.PNG">
 
+Here Grades are calculated based on absolute grading system.
 <img width="838" alt="C7" src="https://user-images.githubusercontent.com/59432256/71742076-921b9d00-2e86-11ea-8cfe-8a964ec88866.PNG">
 
 ### Eligible for exam
