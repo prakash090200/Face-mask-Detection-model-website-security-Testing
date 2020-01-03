@@ -17,8 +17,10 @@ To run the application i made use of
 
 ### Teachers portal(student with less than 75 % attendance)
 <img width="958" alt="C2" src="https://user-images.githubusercontent.com/59432256/71739439-7365d800-2e7f-11ea-9d99-cc628ea82541.PNG">
+
 ### Hover effect of robot
 <a href="https://imgflip.com/gif/3l3m92"><img src="https://i.imgflip.com/3l3m92.gif" title="made at imgflip.com"/></a>
+
 ### Student checking marks
 <img width="940" alt="C5" src="https://user-images.githubusercontent.com/59432256/71741126-0bfe5700-2e84-11ea-8009-583979b686ea.PNG">
  
