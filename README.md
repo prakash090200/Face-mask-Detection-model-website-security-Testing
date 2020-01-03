@@ -16,15 +16,19 @@ To run the application i made use of
 <img width="949" alt="one" src="https://user-images.githubusercontent.com/59432256/71685285-d68f3600-2dbd-11ea-85fc-6b9d630c2dbb.PNG">
 
 ### Teachers portal(student with less than 75 % attendance)
+Once the teacher signed in she can upload marks and attendance for her class.
 <img width="958" alt="C2" src="https://user-images.githubusercontent.com/59432256/71739439-7365d800-2e7f-11ea-9d99-cc628ea82541.PNG">
 
 ### Hover effect of robot
 <a href="https://imgflip.com/gif/3l3m92"><img src="https://i.imgflip.com/3l3m92.gif" title="made at imgflip.com"/></a>
 
 ### Student checking marks
+When any Student Try to check his result if his attendance is less than 75% that student is debared and unable to write exam .Hence no grade and marks for that student.
+
 <img width="957" alt="C4" src="https://user-images.githubusercontent.com/59432256/71742672-8d57e880-2e88-11ea-82c9-828c4119507a.PNG">
 
 ### Subjects for upcoming semester
+Student can give their FFCS by choosing subjects for the upcoming sem as he choose the subject he can view his credit imediately on the screen each subject carry 3 credit ,softskill carry only 1 credit , maximum he can choose 25 credit if he try to exceed 25 credit portal will not allow it.
 <img width="940" alt="C5" src="https://user-images.githubusercontent.com/59432256/71741126-0bfe5700-2e84-11ea-8009-583979b686ea.PNG">
  
 ### dynamic working
@@ -36,15 +40,17 @@ To run the application i made use of
 <img width="838" alt="C7" src="https://user-images.githubusercontent.com/59432256/71742076-921b9d00-2e86-11ea-8cfe-8a964ec88866.PNG">
 
 ### Eligible for exam
-
+Since the attendance is  >75% he can view his datesheet for exam and can sit for exam.
 <img width="959" alt="C9" src="https://user-images.githubusercontent.com/59432256/71742144-cdb66700-2e86-11ea-8a87-91eef77f86f3.PNG">
 
 ### Student Details 
 
 <img width="905" alt="C11" src="https://user-images.githubusercontent.com/59432256/71742195-f63e6100-2e86-11ea-8b85-4570238f2e76.PNG">
 
+### Student family and proctor Details
 <img width="941" alt="C8" src="https://user-images.githubusercontent.com/59432256/71742125-c1320e80-2e86-11ea-9a64-4c9f23c00262.PNG">
 
+### Student personal details
 <img width="953" alt="C10" src="https://user-images.githubusercontent.com/59432256/71742168-deff7380-2e86-11ea-805d-d0ae439f5cf1.PNG">
 
 ### css interactive animation
