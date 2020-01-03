@@ -10,6 +10,8 @@ It provide complete information of the students their hostel,proctor, marks, att
 To run the application i made use of 
 * Wampserver64 
 * sublimeText editor for writing codes.
+* To run it Type on url
+   localhost/foldername where u stored ur files/first.php
 ---
 # screenshots
 ### Homepage
