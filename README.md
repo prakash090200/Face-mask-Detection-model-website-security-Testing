@@ -22,6 +22,11 @@ Once the teacher signed in she can upload marks and attendance for her class.
 ### Hover effect of robot
 <a href="https://imgflip.com/gif/3l3m92"><img src="https://i.imgflip.com/3l3m92.gif" title="made at imgflip.com"/></a>
 
+### Student homepage
+Here using javascript a clock is created .The navigation bar consist of Marks,Student Details, Subjects,dropdown menu with hostel,personal,proctol,family details.
+
+<img width="946" alt="C3" src="https://user-images.githubusercontent.com/59432256/71743857-94ccc100-2e8b-11ea-9f75-09cafac9c162.PNG">
+
 ### Student checking marks
 When any Student Try to check his result if his attendance is less than 75% that student is debared and unable to write exam .Hence no grade and marks for that student.
 
@@ -44,15 +49,17 @@ Since the attendance is  >75% he can view his datesheet for exam and can sit for
 <img width="959" alt="C9" src="https://user-images.githubusercontent.com/59432256/71742144-cdb66700-2e86-11ea-8a87-91eef77f86f3.PNG">
 
 ### Student Details 
-
+On clicking on personal Detail on nav bar one can view complete detail of the student.
 <img width="905" alt="C11" src="https://user-images.githubusercontent.com/59432256/71742195-f63e6100-2e86-11ea-8b85-4570238f2e76.PNG">
 
 ### Student family and proctor Details
+This is a form which a new student need to fill up , their are many form like this which need to be filled .later these information get saved permamnently in the database and can be viewed in Student Personal information.
 <img width="941" alt="C8" src="https://user-images.githubusercontent.com/59432256/71742125-c1320e80-2e86-11ea-9a64-4c9f23c00262.PNG">
 
-### Student personal details
+### Student  details
+
 <img width="953" alt="C10" src="https://user-images.githubusercontent.com/59432256/71742168-deff7380-2e86-11ea-805d-d0ae439f5cf1.PNG">
 
 ### css interactive animation
-
+This page has many css properties involved like grid system,flexbox, beautiful hover effects hover effects.
 <img width="954" alt="C12" src="https://user-images.githubusercontent.com/59432256/71742242-0bb38b00-2e87-11ea-8b30-634723d3d56c.PNG">
