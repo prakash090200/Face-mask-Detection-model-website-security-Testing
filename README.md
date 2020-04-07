@@ -70,15 +70,26 @@ This page has many css properties involved like grid system,flexbox, beautiful h
 ## Backend Part ( Database handled using mysql)
 PHP MY ADMIN
 ## Screenshots
+
+This is My database with name Prakashk
+
 <img width="775" alt="Capture1" src="https://user-images.githubusercontent.com/59432256/78707931-eecb9f80-792e-11ea-9005-1d96dc9d46c0.PNG">
 
 <img width="781" alt="Capture2" src="https://user-images.githubusercontent.com/59432256/78708101-33573b00-792f-11ea-80b3-50420e071d05.PNG">
 
+This is the database of all the student in a class belonging to a  particular teacher.
+
 <img width="760" alt="Capture3" src="https://user-images.githubusercontent.com/59432256/78708168-5124a000-792f-11ea-9f2f-55cf048402d4.PNG">
+
+Database storing student Hostel and mess Information.
 
 <img width="773" alt="Capture4" src="https://user-images.githubusercontent.com/59432256/78708233-70233200-792f-11ea-83b3-794969d11b89.PNG">
 
+Database of  faculties present in that college.
+
 <img width="777" alt="Capture5" src="https://user-images.githubusercontent.com/59432256/78708333-9517a500-792f-11ea-94e6-77ee15bc05b0.PNG">
+
+Database holding information regarding students Subjects for upcoming semester and total Credit (max is 25).
 
 <img width="769" alt="Capture6" src="https://user-images.githubusercontent.com/59432256/78708400-b9738180-792f-11ea-8ae9-6646c8c722a6.PNG">
 
