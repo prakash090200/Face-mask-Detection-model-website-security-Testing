@@ -70,4 +70,5 @@ This page has many css properties involved like grid system,flexbox, beautiful h
 ## Backend Part ( Database handled using mysql)
 PHP MY ADMIN
 ## Screenshots
+<img width="775" alt="Capture1" src="https://user-images.githubusercontent.com/59432256/78707931-eecb9f80-792e-11ea-9005-1d96dc9d46c0.PNG">
 
