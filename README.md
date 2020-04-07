@@ -77,3 +77,6 @@ PHP MY ADMIN
 <img width="760" alt="Capture3" src="https://user-images.githubusercontent.com/59432256/78708168-5124a000-792f-11ea-9f2f-55cf048402d4.PNG">
 
 <img width="773" alt="Capture4" src="https://user-images.githubusercontent.com/59432256/78708233-70233200-792f-11ea-83b3-794969d11b89.PNG">
+
+<img width="777" alt="Capture5" src="https://user-images.githubusercontent.com/59432256/78708333-9517a500-792f-11ea-94e6-77ee15bc05b0.PNG">
+
