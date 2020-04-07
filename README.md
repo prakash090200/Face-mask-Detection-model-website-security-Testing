@@ -80,3 +80,5 @@ PHP MY ADMIN
 
 <img width="777" alt="Capture5" src="https://user-images.githubusercontent.com/59432256/78708333-9517a500-792f-11ea-94e6-77ee15bc05b0.PNG">
 
+<img width="769" alt="Capture6" src="https://user-images.githubusercontent.com/59432256/78708400-b9738180-792f-11ea-8ae9-6646c8c722a6.PNG">
+
