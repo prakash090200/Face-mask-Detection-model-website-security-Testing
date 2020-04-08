@@ -11,6 +11,11 @@ To run the application i made use of
 * Wampserver64 
 * sublimeText editor for writing codes.
 ---
+
+### YouTube demonstration of my project
+https://youtu.be/QQdlpB7I818
+---
+
 # screenshots
 ### Homepage
 <img width="949" alt="one" src="https://user-images.githubusercontent.com/59432256/71685285-d68f3600-2dbd-11ea-85fc-6b9d630c2dbb.PNG">
@@ -92,5 +97,3 @@ Database holding information regarding students Subjects for upcoming semester a
 <img width="769" alt="Capture6" src="https://user-images.githubusercontent.com/59432256/78708400-b9738180-792f-11ea-8ae9-6646c8c722a6.PNG">
 
 
-### YouTube demonstration of my project
-https://youtu.be/QQdlpB7I818
