@@ -5,7 +5,7 @@ It provide complete information of the students their hostel,proctor, marks, att
 * HTML
 * CSS
 * MYSQL in backend
-* javascript (little bit)
+* javascript
 # How to run the application 
 To run the application i made use of 
 * Wampserver64 
